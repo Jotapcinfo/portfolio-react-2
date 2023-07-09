@@ -3,7 +3,7 @@ import './sobre.css'
 
 const Sobre = () => {
   return (
-    <div>Sobre</div>
+    <section id='sobre'>Sobre</section>
   )
 }
 
