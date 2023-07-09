@@ -24,7 +24,7 @@ const Sobre = () => {
             <article className='sobre__card'>
               <FaAward className='sobre__icon' />
               <h5>Experiência</h5>
-              <small>4+ anos em projetos</small>
+              <small>4+ anos</small>
             </article>
 
             <article className='sobre__card'>
@@ -36,7 +36,7 @@ const Sobre = () => {
             <article className='sobre__card'>
               <VscFolderLibrary className='sobre__icon' />
               <h5>Projetos</h5>
-              <small>30+ Completados</small>
+              <small>30+</small>
             </article>
           </div>
           <p>
